@@ -39,7 +39,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 Guide
 
-5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](sections/combat/stamina.md) or [Saves](sections/rules/rolling/saves.md).
+5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Core uses natural language terms, such as [Stamina](sections/combat/stamina.md) or [Saves](sections/rules/rolling/saves.md).
 
 </section>
 
@@ -51,7 +51,7 @@ Guide
 
 I've always found the 5E ability scores confusing and ambiguous.
 
-In **Three Meet** ability scores have been merged into three [Attributes](sections/characters/attributes.md): [Might](sections/characters/attributes.md#might) (Strength and Constitution), [Cunning](sections/characters/attributes.md#cunning) (Dexterity and Charisma), and [Wisdom](sections/characters/attributes.md#wisdom) (Intelligence and Wisdom).
+In **Three Core** ability scores have been merged into three [Attributes](sections/characters/attributes.md): [Might](sections/characters/attributes.md#might) (Strength and Constitution), [Cunning](sections/characters/attributes.md#cunning) (Dexterity and Charisma), and [Wisdom](sections/characters/attributes.md#wisdom) (Intelligence and Wisdom).
 
 </section>
 
@@ -61,7 +61,7 @@ In **Three Meet** ability scores have been merged into three [Attributes](sectio
 
 Guide
 
-Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](sections/backgrounds/backgrounds.md) provide the kinds of features gained through lived experience, training, or fortune.
+Avoiding issues with traditional races, **Three Core** does away with them. Instead, [Backgrounds](sections/backgrounds/backgrounds.md) provide the kinds of features gained through lived experience, training, or fortune.
 
 </section>
 
@@ -85,7 +85,7 @@ Guide
 
 5E involves a lot of fiddling about with distances in feet, large piles of coins, and long lists of equipment.
 
-**Three Meet** abstracts these details, simplifying combat through theatre of the mind, and simplifying resource management.
+**Three Core** abstracts these details, simplifying combat through theatre of the mind, and simplifying resource management.
 
 </section>
 
@@ -107,7 +107,7 @@ For this reason the classes have been consolidated into three classes: [The Migh
 
 Guide
 
-**Three Meet** aims to condense the rules as clearly and simply as possible.
+**Three Core** aims to condense the rules as clearly and simply as possible.
 
 As part of this we avoid hand holding and assume you are familiar with common tabletop RPG concepts.
 

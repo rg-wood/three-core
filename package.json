@@ -1,16 +1,16 @@
 {
-  "name": "three-meet",
-  "version": "0.30.0",
-  "description": "A low-fantasy Pathfinder 2E hack for dark times",
+  "name": "three-core",
+  "version": "0.0.0",
+  "description": "A low-fantasy Pathfinder Core hack for troubled times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
-  "homepage": "https://github.com/grislyeye/three-meet#readme",
+  "homepage": "https://github.com/rg-wood/three-core#readme",
   "license": "ORC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:grislyeye/three-meet.git"
+    "url": "git@github.com:rg-wood/three-core.git"
   },
   "bugs": {
-    "url": "https://github.com/grislyeye/three-meet/issues"
+    "url": "https://github.com/rg-wood/three-core/issues"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",

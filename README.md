@@ -3,9 +3,9 @@ index: 1
 permalink: false
 tags: pages
 ---
-# Three Meet
+# Three Core
 
-A low-fantasy Pathfinder hack for dark times
+A low-fantasy Pathfinder hack for troubled times.
 
 To start playing:
 
@@ -19,7 +19,7 @@ Step 1
 
   + Find somewhere to play
   + Pick a player to be game moderator (GM)
-  + Print some [character sheets](https://github.com/grislyeye/three-meet-char-sheet/releases/download/v0.5.0/three-meet-char-sheet-0.5.0.pdf)
+  + Print some character sheets
   + Get some roleplaying dice
 
 </section>
