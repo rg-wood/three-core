@@ -54,6 +54,11 @@ vellum-doc::part(index) {
   border-right: none;
 }
 
+link-preview::part(popup) {
+  border: white solid;
+  background-color: black;
+}
+
 .anchor span {
   color: white;
 }
@@ -68,14 +73,12 @@ vellum-doc::part(index) {
 
 @media screen and (max-width: 850px) {
   .content {
-    width: 90%;
     margin-left: 30px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .content {
-    width: 100%;
     margin-left: 0;
   }
 }

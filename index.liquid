@@ -11,6 +11,7 @@
 
   <script type="module">
     import './vendor/vellum-doc/vellum-doc.js'
+    import './vendor/link-preview/link-preview.js'
   </script>
 
   <script type="importmap">
@@ -25,16 +26,16 @@
 
 <body>
 
-<vellum-doc headings="h1,h2,h3">
-<article id="document" class="content">
+<vellum-doc anchors>
+  <article id="document" class="content">
 
-{%- for page in collections.index -%}
+  {%- for page in collections.index -%}
 
-{{ page.content }}
+  {{ page.content }}
 
-{%- endfor -%}
+  {%- endfor -%}
 
-</article>
+  </article>
 </vellum-doc>
 
 </body>

@@ -44,7 +44,7 @@ Step 2
 
 Step 3
 
-  + Read the [Basic Rules](section/rules/rules.md)
+  + Read the [Basic Rules](section/rules/basic-rules.md)
   + Read the [Combat Rules](section/combat/combat.md)
 
 </section>
